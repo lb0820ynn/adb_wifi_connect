@@ -1,1 +1,1 @@
-# adb_wifi_connect
+# ADB无线连接脚本
